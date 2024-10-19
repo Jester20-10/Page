@@ -13,6 +13,9 @@ main{
     background-color: #87C15A;
     width: 100%;
 }
+mane p {
+    text-align: center;
+}
 h1{
     text-align: center;
     margin: 0;
