@@ -1,0 +1,19 @@
+header{
+    background-color:#FEE4A2;
+    font-size: 20px;
+    color: #058142;
+    text-decoration: none;
+}
+nav a{
+    text-decoration: none;
+    color: #058142;
+   
+}
+main{
+    background-color: #87C15A;
+    width: 100%;
+}
+h1{
+    text-align: center;
+    margin: 0;
+}
